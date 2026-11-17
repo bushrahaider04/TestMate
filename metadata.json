@@ -1,0 +1,6 @@
+{
+  "name": "Socratic Tutor",
+  "description": "Paste your study notes to generate a 5-question multiple-choice quiz with Socratic follow-up guidance when you miss a question.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
